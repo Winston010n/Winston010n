@@ -7,7 +7,7 @@
 
 <!-- Блок досье без таблиц (фон теперь стандартный прозрачный) -->
 <p align="center">
-  <img src="anime icon.jpg" width="120px" alt="Avatar"><br>
+  <img src="anime icon.jpg" width="120" style="max-width: 100%;" alt="Avatar"><br>
   <code>> [ python backend dev ]</code>
 </p>
 
@@ -32,8 +32,7 @@
 * 🤖 **Telegram Bot** — Асинхронный бэкенд на aiogram.
 
 ---
-## 📊 Моя активность
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Winston010n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Winston010n GitHub Stats">
-</p> 
 
+<p align="center">
+  <code>> current target: SSS-Class Ghoul [АКТИВЕН]</code>
+</p>
