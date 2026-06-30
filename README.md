@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Твой главный баннер со сколопендрой -->
-  <img src="1083678729111663461_3.jpg" width="100%" alt="Centipede Banner">
+  <img src="1083678729111663461.jpg" width="100%" alt="Centipede Banner">
 </p>
 
 <table width="100%">
@@ -27,7 +27,7 @@
 
 <p align="center">
   <!-- Пиксельный виджет с луной -->
-  <img src="732960908104596428_2.jpg" width="100%" alt="Widget">
+  <img src="732960908104596428.jpg" width="100%" alt="Widget">
 </p>
 
 <h2 align="center">КТО Я, ПО-ТВОЕМУ?</h2>
